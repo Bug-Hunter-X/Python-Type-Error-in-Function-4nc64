@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a common type error and its solution. The `bug.py` file contains the erroneous code, while `bugSolution.py` provides a corrected version with improved type handling.
